@@ -131,3 +131,4 @@ dmypy.json
 # games
 games/
 chromedriver/
+.pass
